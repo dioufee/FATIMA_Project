@@ -1,5 +1,7 @@
 The main purpose of this project was to develop statistical estimation models of Herbaceous and Woody forage quality using Sentinel-2 data. The studied forage quality parameters were: Dry matter (DM); Total Mineral Matter (MM); Total Nitrogenous Matter (MAT); Crude fibre (CBW); Neutral Detergent Fibers (NDF); Acid Detergent Fibers (ADF); Lignin (ADL); Digestibility of organic matter (SMO) and Dry matter digestibility (SMS). The multilinear model with cross-validation was used to obtain the results as presented in Figure 1 (variation of herbaceous forage quality) and Figure 2 (variation of woody forage quality) for the spatio-temporal distribution of MAT, one of the most important parameters, across the Sahelian rangelands. Results on the evolution of ADF show an increase of its content in woody forage during the dry season and along the north-south gradient of the silvopastoral zone. These results will enable sustainable management of fodder resources in particular and livestock in general. 
 ![image](https://github.com/smane341/FATIMA_Project/assets/60321861/5b7c0a9a-9cfe-42d3-9250-fe16acb96cac) 
+
 Figure 1 : Variation of herbaceous forage quality with in A, the interannual variation between 2021 to 2023 and in B, the spatial and intra-seasonal variation in MAT.
 ![image](https://github.com/smane341/FATIMA_Project/assets/60321861/6cda89ec-ec6f-4ec2-bb76-5883ddc77939)
+
 Figure 2 : Variation of woody forage quality with: A) the inter-annual variation between 2021 to 2023 and B) the spatial and intra-seasonal variation in MAT.
